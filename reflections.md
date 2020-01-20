@@ -20,6 +20,8 @@ For **bold** use double " * "
 1. item 3
 1. item 4
 
+> This is a block quote
+
 ### If you want to insert an Image, this in the format amd example ![GitHub Logo](/images/logo.png)
 ![callie](Callie4.jpeg)
 
