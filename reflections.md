@@ -20,7 +20,8 @@ For **bold** use double " * "
 1. item 3
 1. item 4
 
-> This is a block quote
+### ALso, you can add block quotes
+> Subconscious mind does exactly what the conscious mind tells it to do.
 
 ### If you want to insert an Image, this in the format amd example ![GitHub Logo](/images/logo.png)
 ![callie](Callie4.jpeg)
@@ -28,3 +29,5 @@ For **bold** use double " * "
 ### Here is a link to more syntax informarion
 
 [more info here ](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links)
+
+## But more impotant, there is always a way to find the answer, search or ask for it.
