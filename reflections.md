@@ -19,5 +19,9 @@ For **bold** use double " * "
 1. item 3
 1. item 4
 
-### Image ![GitHub Logo](/images/logo.png)
+### If you want to insert an Image, this in the format amd example ![GitHub Logo](/images/logo.png)
 ![callie](Callie4.jpeg)
+
+### Here is a link to more syntax informarion
+
+[more info here ](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links)
