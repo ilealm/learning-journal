@@ -2,4 +2,4 @@
 
 This will be my style cheat page 
 
-For **bold** use "**"
+For **bold** use double "**"
