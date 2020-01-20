@@ -30,4 +30,4 @@ For **bold** use double " * "
 
 [more info here ](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links)
 
-## But more impotant, there is always a way to find the answer, search or ask for it.
+## But more impotant, there is always a way to find the answer, search or ask for it. :grinning:
