@@ -2,4 +2,6 @@
 
 This will be my style cheat page 
 
-For **bold** use double "**"
+For _Italic_ use single " _ "
+
+For **bold** use double " * "
