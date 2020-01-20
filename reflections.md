@@ -18,3 +18,6 @@ For **bold** use double " * "
 1. item 2
 1. item 3
 1. item 4
+
+### Image ![GitHub Logo](/images/logo.png)
+![callie](Callie4.jpeg)
