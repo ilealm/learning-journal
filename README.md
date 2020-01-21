@@ -1,3 +1,5 @@
+![Mindset](mindset.jpg)
+
 # Mindset
 
 Hi there! my name is Iris Leal and I would like to share how I see the concept of mindset.
