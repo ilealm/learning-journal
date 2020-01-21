@@ -3,7 +3,7 @@
 ![](coding.jpeg)
 
 
-# For develop a page, we need a text editor
+# For developing a page, we need a text editor
 
 Chose a text editor is hard. And is really important! A bad choice can be reflected in a lot of waste time, effort and frustration.
 
