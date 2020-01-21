@@ -12,7 +12,7 @@ Hi there! my name is Iris Leal and I would like to share how I see the concept o
 1. We replace it with a new positive thought.
 
 
-## *For example, I would like to give this examples:*
+## *For example, I would like to give this situations:*
 
 - When I enrolled in this course, and I saw that the passing grade is 90, I freaked out, **_I got really worried and doubt in my capacities, but then, I remembered that I already did this kind of staff, I just go to try # and do my best_**, and everthing will be great.
 
