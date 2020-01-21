@@ -34,13 +34,19 @@ Examples of text editors that can download to the computer:
 * Sublime Text
 
 
-So, the way to find a great text editor is to try them. Pick a few that you feels that is right for you, and test it.
+So, the way to find a great text editor is to try them. Pick a few that you feels that is right for you, and test it. _Here is a cool link if you want to lear more!_
+
+[Choosing A Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
+
+
 
 ### _Enjoy coding!_
 
 
 
-# That weird thing called command 
+
+# That weird thing called command / terminal 
 
 The command line, or terminal, is a text-based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text. It displays as a new window in your computer.
 
