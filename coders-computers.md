@@ -59,7 +59,9 @@ Within a terminal you have what is known as a shell. This is a part of the opera
 Some examples of how to interact with the terminal are:
 
 **_pwd:_** Which stands for Print Working Directory. Tells you what your current or present working directory is.
-**_Ls:_* It's short for list: plain listing of our current location.
+
+**_Ls:_** It's short for list: plain listing of our current location.
+
 **_Cd:_** Move around in the system we use a command called cd which stands for change directory
 
 
