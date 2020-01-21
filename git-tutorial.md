@@ -33,10 +33,12 @@
         </table>
         <br><br>
         <p>
-        Every time we want to create changes and upload them to the gitHub, we have to do steps 2 -4, what is called the <b>ACP Flow. </b>
+        gitHub is the one in charge to control versions, so 
+        every time we want to create changes and upload them to the gitHub, we have to do steps 2 -4, what is called the <b>ACP Flow. </b>
         </p>
-        <br><br>
         <p>
+
+        </br></br></br>
         Also, here are some useful commands to work in the terminal:
         </p>
         <ul>
