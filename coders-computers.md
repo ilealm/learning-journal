@@ -1,5 +1,8 @@
 <!-- # This is read 02, Coders Computers -->
 
+![](coding.jpeg)
+
+
 # For develop a page, we need a text editor
 ===========================================
 
