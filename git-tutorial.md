@@ -31,7 +31,6 @@
                 <td>Merges the changes with the master version</td>
             </tr>
         </table>
-        <br><br>
         <p>
         gitHub is the one in charge to control versions, so 
         every time we want to create changes and upload them to the gitHub, we have to do steps 2 -4, what is called the <b>ACP Flow. </b>
