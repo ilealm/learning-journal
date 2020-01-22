@@ -15,3 +15,5 @@ We **_have to think_** very hard in this questions, because our site display sho
 Clean pages always are better than piled up information, and without logic arrangement and flow.
 
 ## A bad disign can lead a site failure, so never understimate layout design.
+
+There are a bunch of useful code elements that can help to build and organized and clean great site, such as divs, paragraphs, tables, list, sections and so on, **_but the design will be the core of the engaging with the users._**
