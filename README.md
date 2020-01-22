@@ -1,7 +1,7 @@
 
-# Hi there! my name is Iris Leal and I would like to share learning path at CodeFellows.
+### _Hi there! my name is Iris Leal and I would like to share learning path at CodeFellows._
 
-### This are my first pages, take a look!
+#### This are my first pages, take a look!
 
 * [Markdown Reflections](reflections.md)
 * [Minset](mindset.md)
