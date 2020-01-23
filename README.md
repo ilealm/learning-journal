@@ -9,6 +9,9 @@
 * [HTML Layout review](layout-review.md)
 * [Coder's computers](coders-computers.md)
 * [Java Review // Read 06a](java-review.html)
-    
-  
+* [How Computers Works Read 06b](how-computers-works.html)
+
+
+
+
 [Iris Leal](https://ilealm.github.io/learning-journal/)
