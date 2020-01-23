@@ -11,6 +11,8 @@
 * [CSS Review // Read 05](css-review.html)
 * [Java Review // Read 06a](java-review.html)
 * [How Computers Works Read 06b](how-computers-works.html)
+* [Java functions // Read 07] (java-funtions.html)
+
 
 
 
