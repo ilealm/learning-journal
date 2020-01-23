@@ -2,7 +2,7 @@
 function validateEmail()
 {
     document.write("validateEmail");
-    confirm("eMail validated",true);
+    // confirm("eMail validated",true);
 
 } //funtion validateEmail()
 
