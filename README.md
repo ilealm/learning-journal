@@ -8,6 +8,7 @@
 * [git Tutorial](git-tutorial.md)
 * [HTML Layout review](layout-review.md)
 * [Coder's computers](coders-computers.md)
+* [Java Review // Read 06a](java-review.html)
     
   
 [Iris Leal](https://ilealm.github.io/learning-journal/)
