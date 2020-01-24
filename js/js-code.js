@@ -1,8 +1,10 @@
 
-function validateEmail()
+function validateEmail(varEmail, varAge)
 {
-    document.write("validateEmail");
+    document.write(varEmail + "    " + varAge);
+    // document.write("validateEmail");
     // confirm("eMail validated",true);
+   
 
 } //funtion validateEmail()
 
