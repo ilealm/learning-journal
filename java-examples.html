@@ -14,16 +14,20 @@
     </header>
     <main>       
       <script>
-            sayHi();    
+            // sayHi();    
             // validateEmail();
         </script> 
         <br><br>
         <label>eMail:</label>
-        <input type="text" id="txtEmail">
-    <!-- me quede queriendo mandar el valor del email a la funcion -->
-        <input type="button" onclick="validateEmail()"  value="Validate email">
-        <!-- <input type="button" onclick=validateEmail() value="Click Me!"> -->
-        <!-- <input type="button" onclick="alert('Hello World!')" value="Click Me!"> -->
+        <input type="text" id="txtEmail"> 
+        <br>
+        <label>Edad:</label>
+        <input type="text" id="txtAge">
+        <br><br><br>
+        <input type="button" onclick=validateEmail(txtEmail.value,txtAge.value)
+         value="Validate information">
+        
+      
     </main>
     
 </body>
